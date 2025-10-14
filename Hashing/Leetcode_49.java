@@ -1,6 +1,6 @@
 // sorting one 
 // n = number of strings in the array strs          Time	O(n * k log k)
-                                                    Space	O(n * k)
+                                                    //Space	O(n * k)
 // k = maximum length of a string in strs
 
 class Solution {
